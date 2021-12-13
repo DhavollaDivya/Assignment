@@ -1,0 +1,38 @@
+The "git fetch"command:
+
+The "git fetch" command is used to pull the updates from remote-tracking branches. 
+Additionally, we can get the updates that have been pushed to our remote branches 
+to our local machines. As we know, a branch is a variation of our repositories main code, 
+so the remote-tracking branches are branches that have been set up to pull and push from remote repository.
+
+Hash Command:
+
+To search for a hash, just enter at least the first 7 characters in the search box. 
+Then on the results page, click the "Commits" tab to see matching commits
+(but only on the default branch, usually master), or the "Issues" tab to see pull requests containing the commit.
+
+Pull Requests:
+
+A pull request is a method of submitting contributions to an open development project. 
+It is often the preferred way of submitting contributions to a project using a distributed 
+version control system (DVCS) such as Git.
+
+Git Stash:
+
+The git stash command shelves changes you have made to your working copy 
+so you can do another work, and then come back and re-apply them.
+
+Tortoise Git:
+
+TortoiseGit provides git-svn interoperability. You can fetch partial or 
+whole history from an SVN remote and store as a local git repository. 
+This allows you to browse the history and create commits locally. 
+You can finally commit your changes to an SVN remote. Switch/Checkout. 
+Updates all files in the working tree to a specific version.
+
+
+
+
+
+
+
